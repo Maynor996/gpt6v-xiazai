@@ -1,9 +1,10 @@
-# GPT6.v 下载指南：网页与 API，不是安装包
+# GPT6.v下载指南：网页与API更稳妥
 
 中文说明页关键词：**gpt6.v下载**
 
 - GitHub Pages：https://maynor996.github.io/gpt6v-xiazai/
-- 正文：`docs/index.html` · `docs/article.md`
+- SEO：GPT6.v没有可靠独立安装包，用网页或API更稳妥。
+- 正文：`docs/index.html` · `docs/article.md`（含配图）
 
 ## 软推荐（无 aff）
 
